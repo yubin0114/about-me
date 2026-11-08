@@ -1,0 +1,43 @@
+body {
+    background-color: lightyellow;
+    line-height: 1.5; font-family: serif;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    padding: 20px 0;
+    text-align: center;
+}
+
+h2 {
+    color: #ae2929;
+    border-bottom: 2px solid #ae2929;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+a {
+    color: #498dc8;
+}
+
+a:hover {
+    color: #0108e8;
+}
+
+a:focus-visible {
+    outline: 2px solid #6891e1;
+    outline-offset: 2px;
+}
+
+footer {
+    font-size: 13px;
+    text-align: center;
+    border-top: 1px solid #ae2929;
+   
+}
