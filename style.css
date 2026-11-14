@@ -12,7 +12,7 @@ header {
 }
 
 h2 {
-    color: #ae2929;
+    color: #ae2929; 
     border-bottom: 2px solid #ae2929;
     padding-bottom: 5px;
     margin-bottom: 10px;
@@ -36,7 +36,7 @@ a:focus-visible {
 }
 
 footer {
-    font-size: 13px;
+    font-size: 0.875rem;
     text-align: center;
     border-top: 1px solid #ae2929;
    
